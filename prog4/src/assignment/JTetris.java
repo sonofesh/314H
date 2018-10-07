@@ -216,7 +216,6 @@ public class JTetris extends JComponent {
         gameOn = false;
         enableButtons();
         timer.stop();
-
         long delta = (System.currentTimeMillis() - startTime)/10;
         timeLabel.setText(Double.toString(delta/100.0) + " seconds");
     }

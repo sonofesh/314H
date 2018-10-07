@@ -13,7 +13,7 @@ public interface Board {
      */
     enum Result {
         /**
-         * The action was a success (eg, applied successfuly).
+         * The action was a success (eg, applied successfully).
          */
         SUCCESS,
 
@@ -57,18 +57,18 @@ public interface Board {
         DOWN,
 
         /**
-         * Attempt to drop the piece all the way, placing it wheverever it lands.
+         * Attempt to drop the piece all the way, placing it wherever it lands.
          */
         DROP,
 
         /**
-         * Attempt to rotate the piece clockwise, applying wall-kicks if neccessary. If the wall kicks
+         * Attempt to rotate the piece clockwise, applying wall-kicks if necessary. If the wall kicks
          * could not be successfully applied, return Result.OUT_BOUNDS.
          */
         CLOCKWISE,
 
         /**
-         * Attempt to rtate the piece counter-clockwise, applying wall-kicks if neccessary. If the
+         * Attempt to rotate the piece counter-clockwise, applying wall-kicks if necessary. If the
          * wall kicks could not be successfully applied, return Result.OUT_BOUNDS.
          */
         COUNTERCLOCKWISE,
