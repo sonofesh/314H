@@ -1,13 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a5360c3-33cb-410b-969c-8fbe186f5e37" name="Default Changelist" comment="" />
+    <list default="true" id="4a5360c3-33cb-410b-969c-8fbe186f5e37" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/Board$Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/Board$Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/Board$Result.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/Board$Result.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/Board.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/Board.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/Brain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/Brain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JBrainTetris.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris$9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/JTetris.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/LameBrain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/LameBrain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/PatelBrain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/PatelBrain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/Piece$PieceType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/Piece$PieceType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/Piece.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/Piece.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/TestHarness.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/TetrisBoard$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/TetrisBoard$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/TetrisBoard.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/TetrisBoard.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/prog4/assignment/TetrisPiece.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/prog4/assignment/TetrisPiece.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prog4.iml" beforeDir="false" afterPath="$PROJECT_DIR$/prog4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/TestHarness.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/assignment/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/assignment/Brain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/assignment/JTetris.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/assignment/LameBrain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/assignment/Piece.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/assignment/TetrisBoard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assignment/assignment/TetrisPiece.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/assignment/TetrisUnitTesting.java">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="53">
+                    <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+                    <folding>
+                      <element signature="imports" expanded="true" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-194389972">
@@ -42,63 +110,60 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="150811874">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="9" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="5" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="14" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="ini" value="1" />
+          <entry key="java" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="33" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="7282" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="7282" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/assignment/Brain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignment/Board.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3077">
-              <caret line="181" column="7" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/assignment/TetrisBoard.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="229" column="5" lean-forward="true" selection-start-line="229" selection-start-column="5" selection-end-line="229" selection-end-column="5" />
-              <folding>
-                <element signature="e#11874#11875#0" expanded="true" />
-                <element signature="e#11908#11909#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignment/Brain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignment/TetrisPiece.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignment/Piece.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1717">
-              <caret line="103" selection-start-line="103" selection-end-line="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignment/PatelBrain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1581">
-              <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+            <state relative-caret-position="915">
+              <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -106,8 +171,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignment/JTetris.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
+            <state relative-caret-position="405">
+              <caret line="33" column="22" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignment/TetrisBoard.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="304" column="25" selection-start-line="304" selection-start-column="17" selection-end-line="304" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignment/SanityTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -115,31 +198,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/assignment/JBrainTetris.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1020">
-              <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+            <state relative-caret-position="285">
+              <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3074#3075#0" expanded="true" />
-                <element signature="e#3130#3131#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignment/TestHarness.java">
+        <entry file="file://$PROJECT_DIR$/src/assignment/PatelBrain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+            <state relative-caret-position="783">
+              <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assignment/LameBrain.java">
+        <entry file="file://$PROJECT_DIR$/src/assignment/Piece.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="41" />
+            <state relative-caret-position="225">
+              <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/assignment/TetrisPiece.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -168,13 +258,19 @@
       <find>System</find>
       <find>dropH</find>
       <find>gameOn</find>
-      <find>drop</find>
       <find>dropHeight</find>
       <find>place</find>
       <find>nextPiece</find>
       <find>Piece</find>
       <find>stopGame</find>
+      <find>new TetrisBoard</find>
+      <find>drop</find>
+      <find>testMove</find>
+      <find>test</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -182,10 +278,17 @@
         <option value="$PROJECT_DIR$/src/assignment/Board.java" />
         <option value="$PROJECT_DIR$/src/assignment/JTetris.java" />
         <option value="$PROJECT_DIR$/src/assignment/TestHarness.java" />
-        <option value="$PROJECT_DIR$/src/assignment/TetrisBoard.java" />
-        <option value="$PROJECT_DIR$/src/assignment/JBrainTetris.java" />
+        <option value="$PROJECT_DIR$/__MACOSX/src/assignment/__LameBrain.java" />
+        <option value="$PROJECT_DIR$/src/assignment/TrainBrain.java" />
+        <option value="$PROJECT_DIR$/src/assignment/LameBrain.java" />
+        <option value="$PROJECT_DIR$/src/assignment/TetrisBrain.java" />
+        <option value="$PROJECT_DIR$/src/assignment/Heuristics.java" />
+        <option value="$PROJECT_DIR$/src/assignment/assignment/Board.java" />
         <option value="$PROJECT_DIR$/src/assignment/TetrisPiece.java" />
+        <option value="$PROJECT_DIR$/src/assignment/TetrisBoard.java" />
         <option value="$PROJECT_DIR$/src/assignment/PatelBrain.java" />
+        <option value="$PROJECT_DIR$/src/assignment/JBrainTetris.java" />
+        <option value="$PROJECT_DIR$/src/assignment/TetrisUnitTesting.java" />
       </list>
     </option>
   </component>
@@ -195,20 +298,20 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="456" />
-    <option name="y" value="18" />
-    <option name="width" value="1822" />
-    <option name="height" value="1092" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="138" />
+    <option name="y" value="92" />
+    <option name="width" value="1680" />
+    <option name="height" value="333" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -234,15 +337,25 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538791547642" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540073648393" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assignment/assignment" />
+      <recent name="$PROJECT_DIR$/src/assignment" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -296,15 +409,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SanityTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prog4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignment" />
+      <option name="MAIN_CLASS_NAME" value="assignment.SanityTests" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TetrisUnitTesting" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prog4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="assignment" />
+      <option name="MAIN_CLASS_NAME" value="assignment.TetrisUnitTesting" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.JTetris" />
       <item itemvalue="Application.TestHarness" />
       <item itemvalue="Application.JBrainTetris" />
+      <item itemvalue="JUnit.SanityTests" />
+      <item itemvalue="JUnit.TetrisUnitTesting" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.JBrainTetris" />
         <item itemvalue="Application.JTetris" />
+        <item itemvalue="JUnit.TetrisUnitTesting" />
+        <item itemvalue="JUnit.SanityTests" />
         <item itemvalue="Application.TestHarness" />
       </list>
     </recent_temporary>
@@ -326,23 +471,66 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SanityTests - 2018.10.12 at 12h 40m 25s.xml">
+      <configuration name="SanityTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TetrisUnitTesting - 2018.10.12 at 12h 40m 34s.xml">
+      <configuration name="TetrisUnitTesting" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TetrisUnitTesting - 2018.10.12 at 12h 41m 10s.xml">
+      <configuration name="TetrisUnitTesting" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="69412000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1613" height="913" extended-state="6" />
+    <frame x="138" y="92" width="1680" height="333" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30868167" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.17460318" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.185567" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3267671" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24951768" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2991453" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286445" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32834226" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -361,7 +549,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -374,82 +562,109 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/__MACOSX/src/assignment/__LameBrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="135" selection-end-column="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../ogprog4/src/assignment/LameBrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-27">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment/TestHarness.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment/Heuristics.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment/TrainBrain.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment/TetrisBrain.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment/assignment/Board.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment/assignment/LameBrain.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment/assignment/Brain.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment/assignment/JBrainTetris.java" />
+    <entry file="file://$PROJECT_DIR$/src/assignment/desktop.ini" />
+    <entry file="file://$PROJECT_DIR$/src/assignment/LameBrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3077">
-          <caret line="181" column="7" selection-start-line="181" selection-start-column="7" selection-end-line="181" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment/Brain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment/Piece.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="103" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment/PatelBrain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1581">
-          <caret line="93" column="35" selection-start-line="93" selection-start-column="35" selection-end-line="93" selection-end-column="35" />
+        <state relative-caret-position="915">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment/JTetris.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="73" column="4" selection-start-line="73" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
+        <state relative-caret-position="405">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment/JBrainTetris.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="21" column="51" selection-start-line="21" selection-start-column="51" selection-end-line="21" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3074#3075#0" expanded="true" />
-            <element signature="e#3130#3131#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment/TestHarness.java">
+    <entry file="file://$PROJECT_DIR$/src/assignment/SanityTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment/LameBrain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="8" selection-start-line="36" selection-start-column="8" selection-end-line="36" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/assignment/TetrisPiece.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
+        <state relative-caret-position="120">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assignment/TetrisBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="229" column="5" lean-forward="true" selection-start-line="229" selection-start-column="5" selection-end-line="229" selection-end-column="5" />
+        <state relative-caret-position="783">
+          <caret line="304" column="25" selection-start-line="304" selection-start-column="17" selection-end-line="304" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment/TetrisPiece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment/PatelBrain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="55" column="54" selection-start-line="55" selection-start-column="54" selection-end-line="55" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment/TetrisUnitTesting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding>
-            <element signature="e#11874#11875#0" expanded="true" />
-            <element signature="e#11908#11909#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assignment/Brain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>

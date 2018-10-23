@@ -26,11 +26,13 @@ public final class TetrisPiece implements Piece {
      * the runner code and testing code.
      */
     public TetrisPiece(PieceType type) {
-        // TODO: Implement me.
         this.type = type;
         this.body = this.type.getSpawnBody();
         setSkirt();
 
+        //Sets the clockwise pieces of each of the four pieces using the clockwisePiece method. The clockwise piece of
+        //the last element back to the first one, creating a structure that resembles a circularly linked list. Doing us
+        //makes it so we don't have to call clockwisePiece every time we need to generate one
         setClockwisePiece(clockwisePiece(this));
         ((TetrisPiece) clockwisePiece).setClockwisePiece(clockwisePiece(clockwisePiece));
         ((TetrisPiece) clockwisePiece.clockwisePiece()).setClockwisePiece(clockwisePiece(clockwisePiece.clockwisePiece()));
@@ -48,6 +50,12 @@ public final class TetrisPiece implements Piece {
         setSkirt();
     }
 
+    /**
+     * Sets the piece's skirt according to provided specification. For each x value across the piece, the skirt
+     * gives the lowest y value in the body relative to the bottom of the SRS
+     * bounding box. If there is no block in a given column, the skirt for that column
+     * is Integer.MAX_VALUE.
+     */
     private void setSkirt(){
         skirt = new int[(int) type.getBoundingBox().getWidth()];
         for(int i = 0; i < skirt.length; i++){
@@ -62,57 +70,66 @@ public final class TetrisPiece implements Piece {
         }
     }
 
+    /**
+     * Returns a piece that is 90 degrees clockwise rotated from this piece,
+     * according to the Super Rotation Systems
+     * @param input
+     */
     private Piece clockwisePiece(Piece input){
         Point[] clockwiseBody = new Point[input.getBody().length];
         for(int i = 0; i < input.getBody().length; i++){
+            //uses the mathimatical formula for rotation in a cartesian plane
             clockwiseBody[i] = new Point((int) input.getBody()[i].getY(),
                     input.getHeight() - (int) input.getBody()[i].getX() - 1);
         }
         return new TetrisPiece(input.getType(), clockwiseBody,input.getRotationIndex() + 1);
     }
 
+    /**
+     * Sets counterclockwise piece of the input to the instance of the class. Or in other words, it sets the clockwise
+     * piece of the instance of the class to the input
+     * @param input
+     */
     private void setClockwisePiece(Piece input){
         ((TetrisPiece) input).setCounterclockwisePiece(this);
         this.clockwisePiece = input;
     }
 
+    /**
+     * Sets the counterclockwise piece of the instance of the class to the input
+     * @param input
+     */
     private void setCounterclockwisePiece(Piece input){
         this.counterclockwisePiece = input;
     }
 
     @Override
     public PieceType getType() {
-        // TODO: Implement me.
         return type;
     }
 
     @Override
     public int getRotationIndex() {
-        // TODO: Implement me.
         return rotationIndex;
     }
 
     @Override
     public Piece clockwisePiece() {
-        // TODO: Implement me.
         return clockwisePiece;
     }
 
     @Override
     public Piece counterclockwisePiece() {
-        // TODO: Implement me.
         return counterclockwisePiece;
     }
 
     @Override
     public int getWidth() {
-        // TODO: Implement me.
         return type.getBoundingBox().width;
     }
 
     @Override
     public int getHeight() {
-        // TODO: Implement me.
         return type.getBoundingBox().height;
     }
 
@@ -124,17 +141,15 @@ public final class TetrisPiece implements Piece {
 
     @Override
     public int[] getSkirt() {
-        // TODO: Implement me.
         return skirt;
     }
 
     @Override
     public boolean equals(Object other) {
-        // Ignore objects which aren't also tetris pieces.
+        //Ignore objects which aren't also Tetris pieces.
         if(!(other instanceof TetrisPiece)) return false;
         TetrisPiece otherPiece = (TetrisPiece) other;
 
-        // TODO: Implement me.
         return this.type == otherPiece.getType() &&
                 this.rotationIndex == otherPiece.getRotationIndex();
     }
