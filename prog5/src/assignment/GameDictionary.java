@@ -82,7 +82,6 @@ public class GameDictionary implements BoggleDictionary {
     @Override
     public Iterator<String> iterator() {
         return words.iterator();
-
     }
 
     private class CharacterNode {
